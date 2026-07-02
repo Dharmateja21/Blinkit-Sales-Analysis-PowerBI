@@ -27,3 +27,6 @@ This project is an interactive Power BI Report Built to analyse Blinkit sales Pe
 - Dax Measures
 - Interactive Report Design
 - Business Intilligence
+
+## Report Preview
+![Blinkit Report](Report.png)
